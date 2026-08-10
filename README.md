@@ -1,4 +1,4 @@
-<h1 align="left">Muhil Vannan</h1>
+<h1 align="left">Muhilvannan</h1>
 
 Indie developer building games, tools, and AI-assisted apps — mostly solo, mostly in Python.
 
