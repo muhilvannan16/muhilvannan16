@@ -32,7 +32,7 @@ Two published PyPI packages: a lightweight game logic library (inventory, items,
 ## Activity
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=muhilvannan16&theme=default&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=muhilvannan16&theme=default&hide_border=true" alt="GitHub Streak" height="180" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhilvannan16&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" height="180" />
 </p>
 
