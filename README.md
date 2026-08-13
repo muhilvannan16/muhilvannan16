@@ -25,6 +25,10 @@ An AI-assisted study app with notes, flashcards, quizzes, and spaced repetition 
 Full-stack tool that scores any public repo's health from 0–100 using real commit activity, issue responsiveness, and project hygiene. FastAPI backend, vanilla JS frontend, Dockerized, deployed with CI/CD.
 [Live](https://repo-analyzer-ts4d.onrender.com) | [Repository](https://github.com/muhilvannan16/Repo-Analyzer)
 
+**AI Code Reviewer**
+CLI tool that reviews staged git changes using an LLM (Groq), with hallucination-checked output and a pre-commit hook that can block commits on critical issues. Published to PyPI with a fully automated, secretless release pipeline via GitHub Actions and PyPI Trusted Publishing.
+[PyPI](https://pypi.org/project/ai-code-reviewer-cli/) | [Repository](https://github.com/muhilvannan16/ai-code-reviewer)
+
 **pygamelogic / pygamesense**
 Two published PyPI packages: a lightweight game logic library (inventory, items, cooldowns) and an event-driven hazard/game-sense engine for text-based games.
 [pygamelogic](https://pypi.org/project/pygamelogic/) | [pygamesense](https://pypi.org/project/pygamesense/)
