@@ -1,6 +1,6 @@
 <h1 align="left">Muhilvannan</h1>
 
-Indie developer building games, tools, and AI-assisted apps — mostly solo, mostly in Python.
+Indie developer building games, tools, and AI-assisted apps, mostly in Python.
 
 [GitHub](https://github.com/muhilvannan16) | [Email](mailto:muhilvannan.elavazhagan@gmail.com)
 
