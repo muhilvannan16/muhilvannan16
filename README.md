@@ -13,6 +13,8 @@ Indie developer building games, tools, and AI-assisted apps, mostly in Python.
 
 ## Selected Work
 
+**Finance Tracker** A fully static personal finance tracker with zero backend — runs a real Python forecasting engine client-side via Pyodide/WebAssembly. Multi-account support with transfers, and optional AI-assisted recurring-charge detection using your own Groq API key (BYOK), so financial data never leaves the device. [Live](https://muhilvannan16.github.io/finance-tracker) | [Repository](https://github.com/muhilvannan16/finance-tracker)
+
 **Space Station RPG (Mobile)**
 Android port of a terminal survival RPG built with Kivy — procedural map generation, multi-phase boss encounters, full save/load persistence, and a GitHub Actions pipeline producing signed debug APKs.
 [Repository](https://github.com/muhilvannan16/space-station-rpg-mobile)
