@@ -44,7 +44,29 @@ Two published PyPI packages: a lightweight game logic library (inventory, items,
 
 ## Stack
 
-**Languages:** Python, JavaScript, HTML/CSS
-**Frameworks & Libraries:** Kivy, FastAPI, Streamlit, CustomTkinter, curses
-**Tools & Platforms:** Git, GitHub Actions, Docker, SQLite, Render
-**APIs:** Groq (LLM + Whisper)
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Kivy](https://img.shields.io/badge/-Kivy-1976D2?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-3776AB?style=flat&logo=python&logoColor=white)
+![curses](https://img.shields.io/badge/-curses-3776AB?style=flat&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+**APIs**
+
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat&logo=groq&logoColor=white)
